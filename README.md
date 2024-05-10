@@ -4,9 +4,14 @@
 
 <kbd>![17239601442_550af662b1_c](https://github.com/KasiMuthuveerappan/Jamboree-Institute/assets/142071405/dcefb2c1-8c71-46d8-9377-403323850fb3)</kbd>
 
+## 📝 Case Report
+- You can access the complete Case python file here - [Python](https://github.com/KasiMuthuveerappan/Jamboree-Institute/blob/main/k-Analysis/jamboree-k-analysis.ipynb)
+- You can access the complete Casestudy in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Jamboree-Institute/blob/main/k-Analysis/jamboree-k-mastercopy.pdf)
+
+    
 ## 🔹ABOUT:
 
-* Jamboree is a renowned educational institution that has successfully assisted numerous students in gaining admission to top colleges abroad. With their proven problem-solving methods, they have helped students achieve exceptional scores on exams like GMAT, GRE, and SAT with minimal effort.
+* `Jamboree` is a renowned educational institution that has successfully assisted numerous students in gaining admission to top colleges abroad. With their proven problem-solving methods, they have helped students achieve exceptional scores on exams like GMAT, GRE, and SAT with minimal effort.
 
 * To further support students, Jamboree has recently introduced a new feature on their website. This feature enables students to assess their probability of admission to Ivy League colleges, considering the unique perspective of Indian applicants.
 

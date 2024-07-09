@@ -49,8 +49,27 @@
 |Research| This column indicates whether the applicant has research experience (1) or not (0).|
 |Chance of Admit| This column represents the estimated probability or chance of admission for each applicant, ranging from 0 to 1.|
 
-
 These columns provide relevant information about the applicants' academic qualifications, testscores, university ratings, and other factors that may influence their chances of admission.
 
+-----
+## ⭐STAR format results:
 
+### 💡Situation:
+Jamboree, a leading educational institution, aims to enhance student admissions to Ivy League colleges by predicting admission probabilities for Indian applicants using a newly introduced website feature.
+
+### 💡Task:
+Conduct a comprehensive regression analysis to identify key predictors influencing admission chances and provide actionable insights for optimizing the admissions process.
+
+### 💡Action:
+
+Conducted thorough data preprocessing, including handling missing values, treating duplicates, and checking for outliers to ensure data integrity.
+Implemented univariate and bivariate analyses using statistical and graphical methods to understand variable distributions and relationships, highlighting the significance of factors like GRE score, TOEFL score, and CGPA.
+Built and evaluated Linear Regression, Ridge Regression, and ElasticNet models to predict admission probabilities, assessing model performance metrics such as MAE, RMSE, R-squared, and adjusted R-squared.
+Investigated multicollinearity using VIF scores, confirming robust model predictors with minimal collinearity issues despite high correlations among variables.
+Analyzed residual plots for normality and heteroscedasticity, informing model refinement strategies and suggesting potential data augmentation opportunities.
+
+### 💡Result:
+Our regression analysis revealed that CGPA, GRE score, and TOEFL score are critical predictors of admission chances. Despite minor issues with residual normality and heteroscedasticity, both Linear Regression and regularized models demonstrated strong performance, capturing up to 82% of the variance in admission probabilities. Recommendations include enhancing feature diversity in applicant profiles beyond academic metrics and focusing on improving key predictors to optimize admission outcomes.
+
+By implementing these insights, Jamboree can enhance its predictive admissions capabilities, providing valuable guidance to applicants and improving success rates for Ivy League college admissions among Indian students.
 ------

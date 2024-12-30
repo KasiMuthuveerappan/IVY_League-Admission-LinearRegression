@@ -5,8 +5,8 @@
 <kbd>![17239601442_550af662b1_c](https://github.com/KasiMuthuveerappan/Jamboree-Institute/assets/142071405/dcefb2c1-8c71-46d8-9377-403323850fb3)</kbd>
 
 ## 📝 Case Report
-- You can access the complete Case python file here - [Python](https://github.com/KasiMuthuveerappan/Jamboree-Institute/blob/main/k-Analysis/jamboree-k-analysis.ipynb)
-- You can access the complete Casestudy in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Jamboree-Institute/blob/main/k-Analysis/jamboree-k-mastercopy.pdf)
+- You can access the complete Case python file here - [Python]([https://github.com/KasiMuthuveerappan/Jamboree-Institute/blob/main/k-Analysis/jamboree-k-analysis.ipynb](https://github.com/KasiMuthuveerappan/Jamboree-LinearRegression/blob/main/K-Analysis/jamboree-k-mastercopy_final.ipynb))
+- You can access the complete Casestudy in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Jamboree-LinearRegression/blob/main/K-Analysis/Jamboree-Linear%20regression%20-%20K%20-%20MASTERCOPY.pdf)
 
     
 ## 🔹ABOUT:
